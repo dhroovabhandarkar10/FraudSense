@@ -1,5 +1,5 @@
 <h1>🛡️ FraudSense: Real-Time Fraud Detection System</h1>
-
+Part of FraudSense team (collaborative hackathon project)
 <p>
 <b>FraudSense</b> is a high-performance, multi-layered fraud detection system designed to identify and block sophisticated financial fraud patterns in real-time.
 </p>
